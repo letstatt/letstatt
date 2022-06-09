@@ -1,7 +1,7 @@
 ## Hi there, I'm Ilgiz 👋
 ### Computer science student, C++ enjoyer
 
-Skills: C++, Java and slightly Python
+**Skills**: C++, Java and slightly Python
 
 Wanna work on highload and other interesting services.
 
