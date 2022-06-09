@@ -5,7 +5,7 @@ Skills: C++, Java and slightly Python
 
 Wanna work on highload and other interesting services.
 
-Ex Yandex Cloud SWE.
+Ex Yandex Cloud intern.
 
 Questions? - [Telegram](https://t.me/letstatt), letstatt@outlook.com
 
