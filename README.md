@@ -1,11 +1,9 @@
 ## Hi there, I'm Ilgiz 👋
-### Computer science student, C++ enjoyer
+### Computer science student at the ITMO University
 
-**Skills**: C++, Java and slightly Python
+**Languages**: C++, Python
 
-Wanna work on highload and other interesting services.
-
-Ex Yandex Cloud intern.
+Developer at Yandex. Making Machine Learning go brrr.
 
 Questions? - [Telegram](https://t.me/letstatt), [Email](mailto:letstatt@outlook.com)
 
